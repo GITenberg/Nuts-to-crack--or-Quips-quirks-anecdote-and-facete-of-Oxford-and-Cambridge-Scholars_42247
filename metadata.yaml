@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41598'
     url: http://www.gutenberg.org/2009/agents/41598
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42247#Nuts-to-crack--or-Quips-quirks-anecdote-and-facete-of-Oxford-and-Cambridge-Scholars
 gutenberg_issued: '2013-03-04'
 gutenberg_type: Text
 identifiers:
