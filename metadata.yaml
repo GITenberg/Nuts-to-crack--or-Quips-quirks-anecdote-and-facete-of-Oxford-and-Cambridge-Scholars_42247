@@ -1,0 +1,30 @@
+_repo: Nuts-to-crack--or-Quips-quirks-anecdote-and-facete-of-Oxford-and-Cambridge-Scholars_42247
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gooch, Richard
+    alias: Socius
+    birthdate: 1791
+    deathdate: 1849
+    gutenberg_agent_id: '41598'
+    url: http://www.gutenberg.org/2009/agents/41598
+description: ''
+gutenberg_issued: '2013-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42247'
+  lccn: '40037475'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'University of Cambridge -- Anecdotes'
+- !lcc 'PN'
+- !lcsh 'University of Oxford -- Anecdotes'
+title: Nuts to crack; or Quips, quirks, anecdote and facete of Oxford and Cambridge
+  Scholars
+url: http://www.gutenberg.org/ebooks/42247
